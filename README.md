@@ -1,2 +1,3 @@
-# WeatherPetApp
+# WeatherApp
 PetApp
+Try to get weatherData
